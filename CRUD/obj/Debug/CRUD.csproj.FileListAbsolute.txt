@@ -1,0 +1,8 @@
+C:\Users\Hugo\Documents\SharpDevelop Projects\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Hugo\Documents\SharpDevelop Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Hugo\Documents\SharpDevelop Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Hugo\Documents\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.MainForm.resources
+C:\Users\Hugo\Documents\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\Hugo\Documents\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Hugo\Documents\SharpDevelop Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
